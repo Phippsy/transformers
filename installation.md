@@ -52,7 +52,7 @@ If you have a CUDA enabled GPU, you can take advantage of GPU acceleration. If y
 
 Once your environment is setup, it can be added as a kernel to Jupyter lab/notebook by:
 
-1. In *Anaconda prompt* write `conda active ml`.
+1. In *Anaconda prompt* write `conda activate ml`.
 
 2. Then write `python -m ipykernel install --user --name ml --display-name "ML"`
 
